@@ -13,15 +13,6 @@ Provide a framework to predict potential churners using transformed and enriched
 ## 🛠 Tools & Technologies Used
 SQL Server PowerBI
 
-## 📌 Key Metrics Tracked
-Total Customers
-Total Churners
-Churn Rate
-New Joiners
-Revenue Contributions
-Age & Tenure Segmentation
-Monthly Charge Buckets
-
 ## 👥 Target Audience
 While this project is centered around a telecom firm, the approach, insights, and methodology are transferable across industries like:
 
