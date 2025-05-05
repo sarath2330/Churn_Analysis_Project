@@ -13,8 +13,7 @@ Provide a framework to predict potential churners using transformed and enriched
 ## 🛠 Tools & Technologies Used
 SQL Server PowerBI
 
-## Key Metrics Tracked
-
+## 📌 Key Metrics Tracked
 Total Customers
 Total Churners
 Churn Rate
