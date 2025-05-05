@@ -22,7 +22,7 @@ Revenue Contributions
 Age & Tenure Segmentation
 Monthly Charge Buckets
 
-##👥 Target Audience
+## 👥 Target Audience
 While this project is centered around a telecom firm, the approach, insights, and methodology are transferable across industries like:
 
 Retail
